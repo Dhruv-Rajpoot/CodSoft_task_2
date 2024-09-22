@@ -1,2 +1,1 @@
-# CodSoft_task_2
->### View the code [here]task2.py
+### VIew the code [here]https://github.com/Dhruv-Rajpoot/CodSoft_task_2/blob/main/task2.py
