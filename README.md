@@ -1,1 +1,5 @@
-### VIew the code [here]https://github.com/Dhruv-Rajpoot/CodSoft_task_2/blob/main/task2.py
+## GUI Calculator using python
+> ### View the code [here](https://github.com/yash-ktrl/codsoft_taskno.1/blob/main/calc.py)
+<br>
+
+![image](https://github.com/user-attachments/assets/c23d1c6c-a205-4ba8-a4be-753856614aa7)
